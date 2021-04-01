@@ -31,7 +31,7 @@
 
 
 
--------
+
 <br>
 
  #️⃣ Follow me : <br>
@@ -41,7 +41,8 @@
 <a href="" ><img align="left" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/747/747374.svg?token=exp=1617286735~hmac=c8cb620ca01a4de5f58c44ed029d9abf"/></a>
 <a href="" ><img align="left" width="26px" src="https://image.flaticon.com/icons/png/128/466/466963.png"/></a>
 <br>
-
+-------
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Theft&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Code-Theft&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
