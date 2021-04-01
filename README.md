@@ -1,8 +1,11 @@
 <img src="https://raw.githubusercontent.com/Code-Theft/Code-Theft/master/assests/banner.jpg">
 
 <br>
+## Hey Folks, I'm <a>JANAJITH </a> 
 
-🔭Technologies ::<br>
+-------
+
+🔭Languages & Tools :<br>
 
  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -15,6 +18,7 @@
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Notepad ++" width="26px" src="https://raw.githubusercontent.com/Code-theft/Code-theft/master/assests/npp.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/github/explore/blob/5e84748ee7a59fe23b2bb4807bb82bde9b792cf2/topics/wordpress/wordpress.png" />
 <br>
 
 -------
