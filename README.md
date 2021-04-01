@@ -28,13 +28,6 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/github/explore/blob/5e84748ee7a59fe23b2bb4807bb82bde9b792cf2/topics/wordpress/wordpress.png" />
 <br/>
 
- #️⃣ Follow me : <br>
-
-<a href="" ><img align="left" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/1383/1383329.svg?token=exp=1617286558~hmac=4cfeccf59d20057971eedc73c32f3e33"/></a>
-<a href="" ><img align="left" width="26px" src="https://image.flaticon.com/icons/png/128/1077/1077042.png"/></a>
-<a href="" ><img align="left" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/747/747374.svg?token=exp=1617286735~hmac=c8cb620ca01a4de5f58c44ed029d9abf"/></a>
-<a href="" ><img align="left" width="26px" src="https://image.flaticon.com/icons/png/128/466/466963.png"/></a>
-<br>
 -------
 <br>
 
@@ -48,6 +41,14 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Code-Theft&repo=FirebaseDatabase-to-HTML-Page&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 -------
+
+ #️⃣ Follow me : <br>
+
+<a href="" ><img align="left" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/1383/1383329.svg?token=exp=1617286558~hmac=4cfeccf59d20057971eedc73c32f3e33"/></a>
+<a href="" ><img align="left" width="26px" src="https://image.flaticon.com/icons/png/128/1077/1077042.png"/></a>
+<a href="" ><img align="left" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/747/747374.svg?token=exp=1617286735~hmac=c8cb620ca01a4de5f58c44ed029d9abf"/></a>
+<a href="" ><img align="left" width="26px" src="https://image.flaticon.com/icons/png/128/466/466963.png"/></a>
+<br>
 
 
 
