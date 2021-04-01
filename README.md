@@ -1,10 +1,12 @@
 <img src="https://raw.githubusercontent.com/Code-Theft/Code-Theft/master/assests/banner.jpg">
 
-<br>
-## Hey Folks, I'm <a>JANAJITH </a> 
+### Hey Folks,I'm <a href="">JANAJITH </a> !
 
 -------
-
+ 🧑‍💻 Junior Dev! <br/>
+ 🌱 I’m currently learning React and Python <br/>
+ 👯 I’m looking to collaborate on open source  projects <br/>
+ 
 🔭Languages & Tools :<br>
 
  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
