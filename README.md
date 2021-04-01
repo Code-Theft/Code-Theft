@@ -26,14 +26,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Notepad ++" width="26px" src="https://raw.githubusercontent.com/Code-theft/Code-theft/master/assests/npp.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/github/explore/blob/5e84748ee7a59fe23b2bb4807bb82bde9b792cf2/topics/wordpress/wordpress.png" />
-
-
-
-
-
-
-<br>
-
+<br/>
  #️⃣ Follow me : <br>
 
 <a href="" ><img align="left" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/1383/1383329.svg?token=exp=1617286558~hmac=4cfeccf59d20057971eedc73c32f3e33"/></a>
