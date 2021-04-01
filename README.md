@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/Code-Theft/Code-Theft/master/assests/banner.jpg">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Theft&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Code-Theft&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
