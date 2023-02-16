@@ -38,10 +38,10 @@
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Code-Theft&repo=Captcha-Generator-using-PHP-GD&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Code-Theft&repo=FirebaseDatabase-to-HTML-Page&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Code-Theft&repo=FirebaseDatabase-to-HTML-Page&theme=vue)](https://github.com/anuraghazra/github-readme-stats) -->
 
 -------
-
+<!-- 
  #️⃣ Follow me : <br>
 
 <a href="" ><img align="left" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/1383/1383329.svg?token=exp=1617286558~hmac=4cfeccf59d20057971eedc73c32f3e33"/></a>
@@ -49,6 +49,6 @@
 <a href="" ><img align="left" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/747/747374.svg?token=exp=1617286735~hmac=c8cb620ca01a4de5f58c44ed029d9abf"/></a>
 <a href="" ><img align="left" width="26px" src="https://image.flaticon.com/icons/png/128/466/466963.png"/></a>
 <br>
-
+ -->
 
 
