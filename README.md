@@ -7,7 +7,7 @@
 -------
 
  🧑‍💻 Junior Dev! <br/>
- 🌱 I’m currently learning React and Python <br/>
+ 🌱 I’m currently learning ReactJS <br/>
  👯 I’m looking to collaborate on open source  projects <br/>
  
 
