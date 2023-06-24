@@ -1,17 +1,17 @@
-<img src="https://raw.githubusercontent.com/Code-Theft/Code-Theft/master/assests/banner.jpg">
 
+<h1 align="center"><b>Hi Everyone, I'm Janajith D  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=50&lines=UI/UX Designer;Front-End+Developer;Computer+Science+Student;"></a>
+</p>
 
-### Hey Folks,I'm <a href="">JANAJITH </a> !
-
--------
-
- 🧑‍💻 Junior Dev! <br/>
- 🌱 I’m currently learning ReactJS <br/>
- 👯 I’m looking to collaborate on open source  projects <br/>
+<br>
+## <picture><img src = "https://raw.githubusercontent.com/Code-Theft/Code-Theft/master/assests/about_me.gif" width = 50px></picture> **About me**
+<br>
  
 
-🔭Languages & Tools :<br>
+### Skills 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React JS](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
